@@ -1,0 +1,9 @@
+{
+    "cloudcode.kubeconfigs": [
+        {
+            "name": "c:\\Users\\Sajadsanamzadeh_Gurd\\Documents\\GitHub\\vpn-gaming-3party\\VPN-GameMode\\vpnserver\\Makefile",
+            "configPath": "c:\\Users\\Sajadsanamzadeh_Gurd\\Documents\\GitHub\\vpn-gaming-3party\\VPN-GameMode\\vpnserver\\Makefile"
+        }
+    ],
+    "cloudcode.active-kubeconfig": "c:\\Users\\Sajadsanamzadeh_Gurd\\Documents\\GitHub\\vpn-gaming-3party\\VPN-GameMode\\vpnserver\\Makefile"
+}
